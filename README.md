@@ -3,3 +3,5 @@
 # (Python)
 
 * CASE STUDY 1: Total sales (by week) for 2 competing products at a chain of stores.
+
+Use: panda & numpy.
